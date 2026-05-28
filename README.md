@@ -5,8 +5,8 @@
 ### Full Stack Developer · MERN Stack · IIT Patna '26
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajveer-singh-gour-262733269)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=flat&logo=codechef&logoColor=white)](https://codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)]([https://leetcode.com/](https://leetcode.com/u/rajveeriitp/))
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★-5B4638?style=flat&logo=codechef&logoColor=white)]([https://codechef.com/](https://www.codechef.com/users/rajveeriitp))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rajveersinghgouriitp@gmail.com)
 
 ---
@@ -62,7 +62,7 @@
 
 Full-stack e-commerce platform with cart management, JWT auth, admin dashboard, Stripe payment integration, and Cloudinary media pipeline. Deployed on Vercel + MongoDB Atlas.
 
-[🔗 Live Demo](YOUR_VERCEL_URL) · [📂 Source Code](https://github.com/RajveerSinghGour/GreenCart)
+[🔗 Live Demo]([YOUR_VERCEL_URL](https://greencart-nu-five.vercel.app/)) · [📂 Source Code](https://github.com/RajveerSinghGour/GreenCart)
 
 ---
 
